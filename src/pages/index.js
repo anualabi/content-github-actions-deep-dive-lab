@@ -21,6 +21,8 @@ const IndexPage = () => {
           </h1>
       
           <h4 className="title">Launch Date Announced!!!</h4>
+          
+          <p style={{color: 'yellowgreen' }}>Two things are involved.</p>
 
           <p className='description'>
             Join Our Mailing List!
